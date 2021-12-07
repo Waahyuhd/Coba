@@ -6,7 +6,7 @@ namespace WAH
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worlasasd!");
+            Console.WriteLine("Hello Woreeqeqqeqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqlasasd!");
             Console.WriteLine("Hello aaaaaaaaaaaaa!");
         }
     }
